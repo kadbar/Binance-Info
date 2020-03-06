@@ -15,4 +15,9 @@ Place your API Key and API Secret at Variables document.
 
 It's ready to use.
 
-
+'R' to send request
+'C' to clear
+'X' to delete an order
+'A' for account info
+'O' for open orders
+Another to exit
