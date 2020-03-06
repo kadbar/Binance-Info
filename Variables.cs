@@ -9,8 +9,8 @@ namespace Binance
     class Variables
     {
         public readonly static string apiUrl = "https://api.binance.com";
-        public static string apiKey = "Your API Key";
-        public static string apiSecret = "Your API Secret";
+        public static string apiKey = " Your API Key ";
+        public static string apiSecret = " Your API Secret ";
         public static string symbol, side, type, quantity, price, method, dataQueryString, signature;
         public static string url;
         public static string json;
